@@ -1,6 +1,6 @@
 # CNN_Image_Classification
 This project demonstrates the implementation of a Convolutional Neural Network (CNN) for image classification using TensorFlow &amp; Keras.
-The classifier is designed to recognize and categorize images into predefined classes, showcasing the power of deep learning in image processing tasks. This repository includes the setup, data loading, model architecture, training, and evaluation processes.
+The classifier is designed to recognize and categorize images into Sad or Happy classes, showcasing the power of deep learning in image processing tasks. This repository includes the setup, data loading, model architecture, training, and evaluation processes.
 
 Key Features:
 - Set up TensorFlow environment and configure GPU settings to prevent OutOfMemory (OOM) errors.
